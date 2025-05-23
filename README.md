@@ -1,5 +1,12 @@
 # vulkan4j
 
+> ## ⚠️ Warning: Legacy branch ⚠️
+>
+> This repository only serves as kinda of backup of pre-0.3 era vulkan4j. For v0.3 vulkan4j, goto [Original repository](https://github.com/chuigda/vulkan4j).
+>
+> If demanded, this repository may still receive some update.
+
+
 > [Discord](https://discord.gg/UsmRvrt4gg)
 
 [Vulkan](https://www.vulkan.org/) Binding for Java using [Project Panama](https://openjdk.org/projects/panama/) `java.lang.foreign` APIs.
